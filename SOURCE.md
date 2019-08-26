@@ -8,7 +8,7 @@ SUB HEAD
 
 IMAGE 1 FILE
 
-`transit.jpg`
+`./images/transportation/transit.jpg`
 
 IMAGE 1 ALT TEXT
 
